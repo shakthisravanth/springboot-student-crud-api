@@ -1,5 +1,7 @@
 How to Run the Application ?
-Prerequisites
+
+Prerequisites:
+
 Based on your initial note, make sure you have the following installed before running the application:
 
 Java (JDK): Required to compile and run the Spring Boot application.
