@@ -1,4 +1,12 @@
 How to Run the Application ?
+Prerequisites
+Based on your initial note, make sure you have the following installed before running the application:
+
+Java (JDK): Required to compile and run the Spring Boot application.
+
+MySQL: The application likely uses a MySQL database, which must be installed and running (and configured correctly within the application) for it to function properly.
+
+
 
 You can start the Spring Boot application from the directory where the project is located 
 (e.g., /Users/apple/Desktop/Student).
