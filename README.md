@@ -2,12 +2,11 @@ How to Run the Application ?
 
 Prerequisites:
 
-Based on your initial note, make sure you have the following installed before running the application:
+make sure you have the following installed before running the application:
 
 Java (JDK): Required to compile and run the Spring Boot application.
 
 MySQL: The application likely uses a MySQL database, which must be installed and running (and configured correctly within the application) for it to function properly.
-
 
 
 You can start the Spring Boot application from the directory where the project is located 
@@ -35,4 +34,4 @@ All the samples everything is present in the Postman collection :
 
 postman collection
 
-https://teams.microsoft.com/l/message/48:notes/1763476324066?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A5965bc96-e508-4736-8c9e-f4663f3d255f%22%7D
+https://shakthi-6dbba4b2-2786614.postman.co/workspace/Shakthi_Kodnest's-Workspace~b8e09ba8-bab4-4add-8507-c5bd99debd69/collection/50161021-fcea206b-6326-44af-89dc-c4126b4842d9?action=share&source=copy-link&creator=50161021
