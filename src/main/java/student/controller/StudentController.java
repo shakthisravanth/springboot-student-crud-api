@@ -30,12 +30,12 @@ import java.net.URI;
 @RequiredArgsConstructor
 public class StudentController {
 
-    private final StudentService studentService;
+    private final StudentService studentService; 
 
     /**
      * Create a new student.
      */
-    @PostMapping
+    @PostMapping 
     public ResponseEntity<StudentResponse> createStudent(@Valid @RequestBody StudentRequest request) {
         Student toCreate = mapToEntity(request);
         Student created = studentService.createStudent(toCreate);
@@ -133,5 +133,3 @@ public class StudentController {
                 .build();
     }
 }
-
-

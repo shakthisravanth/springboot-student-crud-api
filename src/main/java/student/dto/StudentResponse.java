@@ -28,5 +28,3 @@ public class StudentResponse {
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
 }
-
-
