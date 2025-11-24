@@ -9,26 +9,6 @@ Java (JDK): Required to compile and run the Spring Boot application.
 MySQL: The application likely uses a MySQL database, which must be installed and running (and configured correctly within the application) for it to function properly.
 
 
-You can start the Spring Boot application from the directory where the project is located 
-(e.g., /Users/apple/Desktop/Student).
-
-Use one of the following commands:
-
-Using the Maven Wrapper:
-
-**Bash**
-
-./mvnw spring-boot:run
-
-
-
-Using Maven (if installed globally):
-
-**Bash**
-
-mvn spring-boot:run
-Once started, the application will be listening on:  http://localhost:8080
-
 
 All the samples everything is present in the Postman collection :
 
