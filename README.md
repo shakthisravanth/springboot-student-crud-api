@@ -1,5 +1,3 @@
-How to Run the Application ?
-
 Prerequisites:
 
 make sure you have the following installed before running the application:
